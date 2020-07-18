@@ -1,0 +1,11 @@
+https://towardsdatascience.com/recommender-systems-in-practice-cef9033bb23a 
+
+https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
+
+https://realpython.com/build-recommendation-engine-collaborative-filtering/
+
+https://medium.com/@tomar.ankur287/user-user-collaborative-filtering-recommender-system-51f568489727
+
+https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0
+
+https://www.geeksforgeeks.org/python-implementation-of-movie-recommender-system/

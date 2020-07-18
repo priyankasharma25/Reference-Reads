@@ -1,0 +1,27 @@
+Deep Learning :
+
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
+
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/
+
+https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+
+
+
+ANN :
+
+https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6
+
+https://towardsdatascience.com/applied-deep-learning-part-2-real-world-case-studies-1bb4b142a585
+
+
+CNN :
+
+https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2
+
+
+
+Autoencoders :
+
+https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798
+

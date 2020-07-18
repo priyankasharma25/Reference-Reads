@@ -1,0 +1,6 @@
+NMF :
+
+https://mlexplained.com/2017/12/28/a-practical-introduction-to-nmf-nonnegative-matrix-factorization/
+
+https://medium.com/logicai/non-negative-matrix-factorization-for-recommendation-systems-985ca8d5c16c
+

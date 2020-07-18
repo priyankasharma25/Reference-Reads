@@ -1,0 +1,6 @@
+https://www.machinelearningplus.com/nlp/cosine-similarity/
+
+Smaller the angle, higher the similarity. Higher similarity, better.
+
+
+

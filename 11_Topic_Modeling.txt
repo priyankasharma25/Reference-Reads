@@ -1,0 +1,6 @@
+Topic Modeling
+
+https://towardsdatascience.com/topic-modeling-articles-with-nmf-8c6b2a227a45
+
+https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+

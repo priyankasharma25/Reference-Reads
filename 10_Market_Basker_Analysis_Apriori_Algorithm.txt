@@ -1,0 +1,12 @@
+Market Basket Analysis :
+
+Apriori Algorithm :
+
+https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce
+
+https://towardsdatascience.com/market-basket-analysis-978ac064d8c6
+
+https://www.edureka.co/blog/apriori-algorithm/
+
+https://pbpython.com/market-basket-analysis.html
+
