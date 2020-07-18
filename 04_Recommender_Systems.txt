@@ -1,3 +1,5 @@
+https://towardsdatascience.com/intro-to-recommender-system-collaborative-filtering-64a238194a26
+
 https://towardsdatascience.com/recommender-systems-in-practice-cef9033bb23a 
 
 https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
@@ -9,3 +11,4 @@ https://medium.com/@tomar.ankur287/user-user-collaborative-filtering-recommender
 https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0
 
 https://www.geeksforgeeks.org/python-implementation-of-movie-recommender-system/
+
